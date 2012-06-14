@@ -2,6 +2,8 @@
 
 $data = array();
 $check = false;
+$test = '';
+
 
 function removeLineBreak($tempDesc)
 {
