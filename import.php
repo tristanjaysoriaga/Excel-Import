@@ -3,6 +3,7 @@
 $data = array();
 $check = false;
 $test = '';
+$testagain = '';
 
 
 function removeLineBreak($tempDesc)
